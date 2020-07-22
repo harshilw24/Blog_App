@@ -1,0 +1,28 @@
+i.icon{
+    font-size: 2em;
+}
+
+.container.main {
+    margin-top: 7.0em ;
+}
+
+#delete{
+    display: inline;
+}
+
+#blogindex{
+    display: block;
+}
+
+#cont{
+    margin-top: 10px;
+    padding: 0;
+}
+
+.chevron.icon{
+    padding-top: 5px;
+}
+/* 
+#readmore{
+    padding-bottom: 1px;
+} */
